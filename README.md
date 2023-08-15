@@ -1,5 +1,5 @@
 # cnfetch
-Simple common fetch script
+A simple tool to fetch common names
 
 ### Install
 
